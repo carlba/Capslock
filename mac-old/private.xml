@@ -6,8 +6,8 @@
         <appendix></appendix>
         <appendix>Make CapsLock Great Again!</appendix>
         <appendix></appendix>
-        <appendix>※Author: Vonng (fengruohang@outlook.com)</appendix>
-        <appendix>※Document: https://github.com/Vonng/Capslock/tree/master/osx</appendix>
+        <appendix>※Author: carlba (fengruohang@outlook.com)</appendix>
+        <appendix>※Document: https://github.com/carlba/Capslock/tree/master/osx</appendix>
         <appendix>※Environment: Mac OS X darwin64 via Karabiner</appendix>
         <appendix>※License: WTFPL</appendix>
         <appendix>※Prequisite: Maps ⇪CapsLock to F19(KeyCode:80) first. (via Seil)</appendix>

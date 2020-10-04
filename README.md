@@ -35,7 +35,7 @@ _Make CapsLock Great Again!_
 
 ```bash
 # This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/carlba/Capslock/master/mac/capslock.json
 ```
 
 ```bash
@@ -307,7 +307,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ## About
 
-Author：Vonng (fengruohang@outlook.com)
+Author：carlba (genzorg@gmail.com)
 
 License：WTFPL
 
@@ -317,7 +317,7 @@ License：WTFPL
 Do What The Fuck you want to Public License
 
 Version 1.0
-Copyright (C) 2018 Feng Ruohang (Vonng).
+Copyright (C) 2020 Carl Bäckström (carlba).
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
